@@ -3,7 +3,7 @@ import requests
 API_KEY = "your_api_key_here"
 
 HEADERS = {
-    "x-apikey": "0e3785b20178e2f58d05394f47edf3870ac7c519187385b1719fcd7010244d87"
+    "x-apikey": API_KEY
 }
 
 
