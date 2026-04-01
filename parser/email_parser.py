@@ -18,4 +18,4 @@ def parse_email(raw_email):
         if part.get_filename():
             attachments.append(part.get_filename())
 
-    return headers, body, attachments
+    return msg, headers, body, attachments
