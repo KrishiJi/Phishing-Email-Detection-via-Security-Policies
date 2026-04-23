@@ -1,9 +1,2 @@
-<<<<<<< HEAD
 dnspython==2.6.1
 requests
-difflib
-=======
-dnspython==2.6.1
-requests
-re
->>>>>>> c5df351399b66f378090fa9d86ad08b85a9527ef

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 from datetime import datetime
 
@@ -35,11 +34,3 @@ def generate_report(results):
 
         f.write("="*60 + "\n")
     return filename
-=======
-def generate_report(results):
-    return {
-        "final_score": results["score"],
-        "classification": results["verdict"],
-        "details": results["reasons"]
-    }
->>>>>>> c5df351399b66f378090fa9d86ad08b85a9527ef

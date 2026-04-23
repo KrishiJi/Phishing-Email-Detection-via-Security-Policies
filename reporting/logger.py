@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import logging
 import os
 from datetime import datetime
@@ -29,12 +28,3 @@ def setup_logger(email_id):
     logger.addHandler(file_handler)
 
     return logger
-=======
-import logging
-
-logging.basicConfig(
-    filename="analysis.log",
-    level=logging.INFO,
-    format="%(asctime)s - %(message)s"
-)
->>>>>>> c5df351399b66f378090fa9d86ad08b85a9527ef
