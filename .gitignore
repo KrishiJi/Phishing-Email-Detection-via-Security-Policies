@@ -1,0 +1,36 @@
+# 🔹 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environment
+venv/
+.env/
+.env.*
+
+# 🔹 Logs
+logs/
+*.log
+
+# 🔹 Reports
+reports/
+
+# 🔹 Attachments
+attachments/
+
+# 🔹 Config files/folders
+config/
+
+# 🔹 Documents
+*.pdf
+*.docx
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo

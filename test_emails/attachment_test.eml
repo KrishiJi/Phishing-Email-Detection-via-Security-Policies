@@ -1,0 +1,18 @@
+Subject: Salary Update
+From: hr@company.com
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="XYZ"
+
+--XYZ
+Content-Type: text/plain
+
+Please check the attachment.
+
+--XYZ
+Content-Disposition: attachment; filename="salary_update.pdf.exe"
+Content-Type: application/octet-stream
+
+FakeContentHere
+
+--XYZ--

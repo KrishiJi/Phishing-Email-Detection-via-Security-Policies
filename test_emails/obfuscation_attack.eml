@@ -1,0 +1,13 @@
+Subject: Account Verification Required
+From: support@secure-bank.com
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: text/plain
+
+Dear Customer,
+
+Please verify your account immediately:
+http://secure-bank.com@malicious-login.xyz/verify
+
+Thank you,
+Bank Team
